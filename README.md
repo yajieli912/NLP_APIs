@@ -1,9 +1,10 @@
 # NLP APIs
 ## How to connect to AWS Comprehend:
-1. pip3 install awscli --upgrade --user
-2. ~/Library/Python/3.6/bin/aws configure
-3. region: us-east-1
-4. file type: json
+1. create new or use existing IAM
+2. pip3 install awscli --upgrade --user
+3. ~/Library/Python/3.6/bin/aws configure
+4. region: us-east-1
+5. file type: json
 
 
 ## How to connect to Google Cloud:
